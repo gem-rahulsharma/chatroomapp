@@ -52,6 +52,7 @@ function connect()
 
     $("#message-container-table").prepend(`<tr><td><b>${message.name} :</b> ${message.content}</td></tr>`)
 
+
  }
 
 
